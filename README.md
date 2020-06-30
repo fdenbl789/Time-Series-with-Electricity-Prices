@@ -26,3 +26,12 @@ The best performing model was the Persistence Algorithm (baseline model) with an
 
 ## PRESENTATION LINK:
 https://docs.google.com/presentation/d/1xe0k5wBUkRJtUsDG_XH139VwTZ07yW3Vr18r0Q9T8Yw/edit#slide=id.g8b672cc1eb_0_24
+
+## REFERENCES FOR IMAGES IN PRESENTATION(in order):
+https://transformers-magazine.com/tm-news/7323-california-distribution-transformers-market-to-grow-at-a-cagr-of-4-5/
+https://www.caiso.com/Documents/FlexibleResourcesHelpRenewables_FastFacts.pdf
+https://www.solar.com/learn/solar-panel-installation/
+https://electrek.co/2020/06/11/tesla-cancelling-solar-roof-orders-after-years-deposits/
+http://www.caiso.com/TodaysOutlook/Pages/prices.aspx
+https://www.aarp.org/travel/destinations/united-states/san-francisco/
+https://www.chooseenergy.com/news/article/energy-storage-costs-must-drop-for-renewables-to-supply-grid-power/
