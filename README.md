@@ -7,7 +7,7 @@ Hourly electricity prices from March 26, 2017 to June 23, 2020, sourced with an 
 The skills used to complete this project consisted of sourcing data by API, preprocessing data, EDA, running the Autocorrelation Function and Partial Autocorrelation Function and selecting a model based on RMSE scores and using Python to make visualizations with Pandas.
 
 ## WHAT I POSTED ON GITHUB:
-There is 1 notebook posted on Github called 'Time Series with Electricity Prices.ipynb.'
+There are 2 notebooks posted on Github. The first one is called 'API.ipynb', which is where I made my API calls. The 2nd notebook is called 'Time Series with Electricity Prices.ipynb', which contain the rest of the project.
 
 ## QUESTIONS I POSED:
 1. What model performed best and why?
