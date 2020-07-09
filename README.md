@@ -23,9 +23,8 @@ The hourly electricity prices for 3/26/17 - 2/26/20 were used as training set, w
 ## RECOMMENDATIONS
 The best performing model was the Persistence Algorithm (baseline model) with an RMSE of 7.0. The SARIMA model had an RMSE of 14.7 and FB Prophet had an RMSE of 19.3.
 
-
 ## PRESENTATION LINK:
-https://docs.google.com/presentation/d/1xe0k5wBUkRJtUsDG_XH139VwTZ07yW3Vr18r0Q9T8Yw/edit#slide=id.g8b672cc1eb_0_24
+https://docs.google.com/presentation/d/1hn61AqZwsyI_ZWP4gS2nemEWrdojjCwECu3VTbdxnvE/edit#slide=id.g8b672cc1eb_0_41
 
 ## REFERENCES FOR IMAGES IN PRESENTATION(in order):
 https://transformers-magazine.com/tm-news/7323-california-distribution-transformers-market-to-grow-at-a-cagr-of-4-5/
