@@ -3,7 +3,7 @@
 ## Introduction: 
 
 
-![](images/CASIO%20duck%20curve%202020-06-29%20at%203.16.36%20PM.png
+![](images/CASIO%20duck%20curve%202020-06-29%20at%203.16.36%20PM.png)
 
 ## THE DATASET:
 Hourly electricity prices from March 26, 2017 to June 23, 2020, sourced with an API from California Independent Operator System (CAISO). The hourly prices came from a particular node in downtown San Francisco called 'BAYSHOR2_1_N001.'
