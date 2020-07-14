@@ -34,10 +34,12 @@ The hourly electricity prices for 3/27/17 - 2/26/20 were used as training set, w
 
 ## RECOMMENDATIONS
 The best performing model was the Persistence Algorithm (baseline model) with an RMSE of 7.0. 
+
 <img src="images/Persistence%20model%20-%201%20week%20predictions%202020-06-30%20at%2012.47.49%20PM.png" width="650">
 
 
 -SARIMA, RMSE of 14.7
+
 <img src="images/SARIMA%20no%20exognous%20variables%2C%20no%20CV%202020-06-30%20at%2012.54.21%20PM.png" width="650">
 
 -SARIMAX, RMSE of 12.1
