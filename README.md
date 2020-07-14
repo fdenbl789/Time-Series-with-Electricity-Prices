@@ -42,7 +42,7 @@ The best performing model was the Persistence Algorithm (baseline model) with an
 
 <img src="images/1st%20Split%20CV%20-%20SARIMAX%202020-07-08%20at%2010.59.49%20PM.png" width="650">
 
-<img src="images/" width="650">
+<img src="images/2nd%20split%20CV%20-%20SARIMAX%202020-07-08%20at%2011.00.42%20PM.png" width="650">
 
 
 <img src="images/" width="650">
