@@ -33,7 +33,11 @@ The hourly electricity prices for 3/27/17 - 2/26/20 were used as training set, w
 2. Build a long short-term memory neural network to try and make better predictions.
 
 ## RECOMMENDATIONS
-The best performing model was the Persistence Algorithm (baseline model) with an RMSE of 7.0. The performance of the rest of the models are:
+The best performing model was the Persistence Algorithm (baseline model) with an RMSE of 7.0. 
+
+<img src="images/Persistence%20model%20-%201%20week%20predictions%202020-06-30%20at%2012.47.49%20PM.png" width="650">
+
+The performance of the rest of the models are:
 -SARIMA, RMSE of 14.7
 -SARIMAX, RMSE of 12.1
 -FB Prophet, RMSE of 19.3.
