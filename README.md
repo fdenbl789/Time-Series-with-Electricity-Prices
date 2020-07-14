@@ -13,6 +13,8 @@ To predict electricity prices for a local government, utility, grid operator or 
 ## THE DATASET:
 Hourly electricity prices from March 27, 2017 to June 23, 2020, sourced with an API from the California Independent Operator System (CAISO). The hourly prices came from a particular node in downtown San Francisco called 'BAYSHOR2_1_N001.' February 26, 2020 to June 23, 2020 was used as the test/validation set for the Persistence Algorithm, SARIMA and FB Prophet models. A time series cross validation from Scikit-learn was used as the test/validation set for the SARIMAX model.
 
+<img src="images/" width="650">
+
 ## SKILLS REQUIRED TO COMPLETE:
 The skills used to complete this project consisted of sourcing data by API, preprocessing data, EDA, running the Autocorrelation Function and Partial Autocorrelation Function and selecting a model based on RMSE scores. Also, feature engineering and using Scikit-learn's OneHotEncoder to incorporate exogenous variables were used. Visualizations were created with Pandas and Matplotlip.
 
