@@ -25,14 +25,11 @@ There are 3 notebooks posted on Github. The first one is called 'API.ipynb,' whi
 1. What model performed best with the lowest RMSE?
 2. What are the shortcomings of the model?
 
-## HOW I PUT the DATA TOGETHER:
-The hourly electricity prices for 3/27/17 - 2/26/20 were used as training set, while 2/26/20 - 6/23/20 was used as the validation set. The train/validation split is 90/10. The dates for the entire data look random because I wanted to use as many days as possible. The available data available on CASIO only went back to 3/27/17. A time series cross validation from Scikit-learn was used as the test/validation set for the SARIMAX model.
+## Train/Test Split:
+For the Persistence Algorithm, SARIMA and FB Prophet models, the training set spanned from March 27, 2017 to February 26, 2020 and the test set spanded from February 26, 2020 to June 23, 2020 (90/10 split). A time series cross validation from Scikit-learn was used for the train/test set for the SARIMAX model (see graphs for breakout). Note that time series cross validation differs from k-fold VC becaues it does not shuffle the test indices. Successive training sets are supersets of those that come before them.
 
-## FUTURE/STEPS I WOULD HAVE DONE
-1. Add battery storage data to add more exogenous variables to the time series and rerun all the models.
-2. Build a long short-term memory neural network to try and make better predictions.
 
-## RECOMMENDATIONS
+## Modeling Results
 The best performing model was the Persistence Algorithm (baseline model) with an RMSE of 7.0. 
 
 <img src="images/Persistence%20model%20-%201%20week%20predictions%202020-06-30%20at%2012.47.49%20PM.png" width="650">
@@ -55,6 +52,11 @@ The best performing model was the Persistence Algorithm (baseline model) with an
 -FB Prophet, RMSE of 19.3
 
 <img src="images/" width="650">
+
+
+## FUTURE/STEPS I WOULD HAVE DONE
+1. Add battery storage data to add more exogenous variables to the time series and rerun all the models.
+2. Build a long short-term memory neural network to try and make better predictions.
 
 
 ## PRESENTATION LINK:
