@@ -51,7 +51,7 @@ The best performing model was the Persistence Algorithm (baseline model) with an
 
 -FB Prophet, RMSE of 19.3
 
-<img src="images/" width="650">
+<img src="images/FB%20Screen%20Shot%202020-06-30%20at%201.08.52%20PM.png" width="650">
 
 
 ## FUTURE/STEPS I WOULD HAVE DONE
