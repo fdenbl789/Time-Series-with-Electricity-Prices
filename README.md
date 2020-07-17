@@ -19,7 +19,7 @@ Hourly electricity prices from March 27, 2017 to June 23, 2020, sourced with an 
 The skills used to complete this project consisted of sourcing data by API, preprocessing data, EDA, running the Autocorrelation Function and Partial Autocorrelation Function and selecting a model based on RMSE scores. Also, feature engineering and using Scikit-learn's OneHotEncoder to incorporate exogenous variables were used. Visualizations were created with Pandas and Matplotlip.
 
 ## WHAT I POSTED ON GITHUB:
-There are 3 notebooks posted on Github. The first one is called 'API.ipynb,' which is where I made my API calls. The 2nd notebook is called 'Time Series with Electricity Prices.ipynb,' which contains EDA, visualizations and time series models. The 3rd notebook is called 'Exogenous variables.ipynb,' which contains feature engineering with weather and datetime data to add to the SARIMAX model.
+There are 4 notebooks posted on Github. The first one is called 'API.ipynb,' which is where I made my API calls. The 2nd notebook is called 'Time Series with Electricity Prices.ipynb,' which contains EDA, visualizations and time series models. The 3rd notebook is called 'Exogenous variables.ipynb,' which contains feature engineering with weather and datetime data to add to the SARIMAX model. The 4th notebook is called 'Practice for future multivariate time series.ipynb,' which contains code for a future project dealing with a multivariate time series analysis.
 
 ## QUESTIONS I POSED:
 1. What model performed best with the lowest RMSE?
