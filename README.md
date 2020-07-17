@@ -11,7 +11,7 @@ The reason I did this project on electricity prices is because I am interested i
 To predict electricity prices for a local government, utility, grid operator or energy company using time series models. A Persistence Algorithm, SARIMAX and FB Prophet models will be run and compared to see which has the best predictions with the lowest RMSE.
 
 ## THE DATASET:
-Hourly electricity prices from March 27, 2017 to June 23, 2020, sourced with an API from the California Independent Operator System (CAISO). The hourly prices came from a particular node in downtown San Francisco called 'BAYSHOR2_1_N001.' February 26, 2020 to June 23, 2020 was used as the test/validation set for the Persistence Algorithm, SARIMA and FB Prophet models. A time series cross validation from Scikit-learn was used as the test/validation set for the SARIMAX model.
+Hourly electricity prices from March 27, 2017 to June 23, 2020, sourced with an API from the California Independent Operator System (CAISO). The hourly prices came from a particular node in downtown San Francisco called 'BAYSHOR2_1_N001.' 
 
 <img src="images/entire%20Screen%20Shot%202020-07-08%20at%203.28.31%20PM.png" width="650">
 
