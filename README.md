@@ -60,7 +60,7 @@ The best performing model was the Persistence Algorithm (baseline model) with an
 
 
 ## PRESENTATION LINK:
-https://docs.google.com/presentation/d/1hn61AqZwsyI_ZWP4gS2nemEWrdojjCwECu3VTbdxnvE/edit#slide=id.g8b50bd69af_0_0
+https://docs.google.com/presentation/d/1hn61AqZwsyI_ZWP4gS2nemEWrdojjCwECu3VTbdxnvE/edit#slide=id.g8a55ece220_0_69
 
 ## REFERENCES FOR IMAGES IN PRESENTATION(in order):
 https://transformers-magazine.com/tm-news/7323-california-distribution-transformers-market-to-grow-at-a-cagr-of-4-5/
