@@ -63,10 +63,10 @@ The best performing model was the Persistence Algorithm (baseline model) with an
 https://docs.google.com/presentation/d/1hn61AqZwsyI_ZWP4gS2nemEWrdojjCwECu3VTbdxnvE/edit#slide=id.g8a55ece220_0_69
 
 ## References for Images in Presentation (in order):
-https://transformers-magazine.com/tm-news/7323-california-distribution-transformers-market-to-grow-at-a-cagr-of-4-5/
-https://www.caiso.com/Documents/FlexibleResourcesHelpRenewables_FastFacts.pdf
-https://www.solar.com/learn/solar-panel-installation/
-https://electrek.co/2020/06/11/tesla-cancelling-solar-roof-orders-after-years-deposits/
-http://www.caiso.com/TodaysOutlook/Pages/prices.aspx
-https://www.aarp.org/travel/destinations/united-states/san-francisco/
-https://www.chooseenergy.com/news/article/energy-storage-costs-must-drop-for-renewables-to-supply-grid-power/
+https://transformers-magazine.com/tm-news/7323-california-distribution-transformers-market-to-grow-at-a-cagr-of-4-5/ \
+https://www.caiso.com/Documents/FlexibleResourcesHelpRenewables_FastFacts.pdf \
+https://www.solar.com/learn/solar-panel-installation/ \
+https://electrek.co/2020/06/11/tesla-cancelling-solar-roof-orders-after-years-deposits/ \
+http://www.caiso.com/TodaysOutlook/Pages/prices.aspx \
+https://www.aarp.org/travel/destinations/united-states/san-francisco/ \
+https://www.chooseenergy.com/news/article/energy-storage-costs-must-drop-for-renewables-to-supply-grid-power/ \
