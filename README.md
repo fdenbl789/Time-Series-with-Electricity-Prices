@@ -55,8 +55,8 @@ The best performing model was the Persistence Algorithm (baseline model) with an
 
 
 ## FUTURE/STEPS I WOULD HAVE DONE
-1. Add battery storage data to add more exogenous variables to the time series and rerun all the models.
-2. Build a long short-term memory neural network to try and make better predictions.
+1. Add battery storage charge/discharge data to the exogenous variables and rerun all the models.
+2. Build a long short-term memory neural network in order to make better predictions.
 
 
 ## PRESENTATION LINK:
