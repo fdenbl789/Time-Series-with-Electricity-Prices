@@ -69,4 +69,4 @@ https://www.solar.com/learn/solar-panel-installation/ \
 https://electrek.co/2020/06/11/tesla-cancelling-solar-roof-orders-after-years-deposits/ \
 http://www.caiso.com/TodaysOutlook/Pages/prices.aspx \
 https://www.aarp.org/travel/destinations/united-states/san-francisco/ \
-https://www.chooseenergy.com/news/article/energy-storage-costs-must-drop-for-renewables-to-supply-grid-power/ \
+https://www.chooseenergy.com/news/article/energy-storage-costs-must-drop-for-renewables-to-supply-grid-power/
